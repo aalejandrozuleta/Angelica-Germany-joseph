@@ -21,12 +21,12 @@ toggleTheme.addEventListener('click', () => {
 
 function enableDarkTheme() {
     document.body.classList.add('dark');
-    toggleIcon.src = '/public/assets/icons/summer.png';
+    toggleIcon.src = '../assets/icons/summer.png';
     localStorage.setItem('themeState', 'dark');
 }
 
 function disableDarkTheme() {
     document.body.classList.remove('dark');
-    toggleIcon.src = '/public/assets/icons/moon.png';
+    toggleIcon.src = '../assets/icons/moon.png';
     localStorage.setItem('themeState', 'light');
 }
