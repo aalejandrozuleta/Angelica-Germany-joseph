@@ -1,0 +1,58 @@
+@import url('/public/styles/global/variables.css');
+
+.flag {
+    display: flex;
+    height: 5vh;
+    width: 98.7vw;
+}
+
+.flag-size {
+    height: 5vh;
+    flex: 1;
+}
+
+#flag-black {
+    background-color: var(--black-flag);
+}
+
+#flag-red {
+    background-color: var(--red-flag);
+}
+
+#flag-yellow {
+    background-color: var(--yellow-flag);
+}
+
+.menu {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin: 1rem 0 ;
+    background-color: var(--white);
+}
+
+.menu img {
+    height: 2rem;
+    width: 2rem;
+    padding: .5rem;
+    cursor: pointer;
+}
+
+.menu ul {
+    height: 14vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.menu ul li {
+    padding: 0 5rem ;
+}
+
+.menu ul li a:hover {
+    color: var(--red);
+}
+
+.flags {
+    display: flex;
+}

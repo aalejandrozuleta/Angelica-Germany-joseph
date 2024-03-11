@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="/public/assets/icons/germany.png" type="image/png">
+    <link rel="stylesheet" href="/public/styles/global/variables.css">
+    <link rel="stylesheet" href="/public/styles/global/menu.css">
+    <link rel="stylesheet" href="/public/styles/global/footer.css">
+    <link rel="stylesheet" href="/public/styles/index.css">
+    <title>Germany</title>
+</head>
+<body class="">
+    <header>
+        <section class="flag">
+            <div class="flag-size" id="flag-black"></div>
+            <div class="flag-size" id="flag-red"></div>
+            <div class="flag-size" id="flag-yellow"></div>
+        </section>
+        <nav class="menu">
+            <ul>
+                <li><a data-section="menu" data-value="title-one"t href="./index.html">Home</a></li>
+                <li><a data-section="menu" data-value="title-two" href="./cuisine.html">Cuisine</a></li>
+                <li><a data-section="menu" data-value="title-three" href="./geography.html">Geography</a></li>
+                <li><a data-section="menu" data-value="title-four" href="./traditions.html">Traditions</a></li>
+            </ul>
+            <div id="flags" class="flags">
+                <div class="flags-item" data-language="es">
+                    <img id="toggle-icon" src="../public/assets/icons/colombia.png" alt="">
+                </div>
+                <div class="flags-item" data-language="en">
+                    <img src="../public/assets/icons/united-states.png" alt="">
+                </div>
+            </div>
+            <div class="switches">
+                <div id="toggle-theme" class="toggle-theme">
+                    <img id="toggle-theme-icon" class="toggle-theme-icon" src="../public/assets/icons/moon.png" alt="">
+                </div>
+            </div>
+        </nav>
+    </header>
+    <section class="container-home">
+
+        <div class="container-home-cover">
+            <div class="overlay"></div>
+            <div class="container-home-cover-content">
+                <h1 data-section="principal" data-value="title">Germany</h1>
+                <p data-section="principal" data-value="description">Welcome to Germany, a nation where history, culture, and culinary delights converge to offer a captivating experience. Let's embark on a brief journey through the essence of this diverse country.</p>
+            </div>
+        </div>
+
+        <div class="container-home-panel">
+
+            <div class="container-home-panel-wraper">
+                <img src="../public/assets/img/index/wallpaper-4.jpg" alt="">
+                <div class="container-home-panel-wraper-content">
+                    <h2 data-section="panel-principal" data-value="title-one">Culture and Traditions</h2>
+                    <p data-section="panel-principal" data-value="description-one">Germany's cultural tapestry weaves together ancient traditions and modern festivities, from the iconic Oktoberfest to the enchanting Christmas markets, offering a vibrant glimpse into the nation's rich heritage.</p>
+                    <p data-section="panel-principal" data-value="link-one" class="link"><a href="/views/traditions.html"><b>See more</b></a></p>
+                </div>
+            </div>
+            <div class="container-home-panel-wraper">
+                <div class="container-home-panel-wraper-content">
+                    <h2 data-section="panel-principal" data-value="title-two">Geography</h2>
+                    <p data-section="panel-principal" data-value="description-two">Nestled in the heart of Europe, Germany's diverse geography unfolds from the majestic Alps to the charming Black Forest and serene Baltic Sea, creating a captivating backdrop that harmonizes modern cities with timeless villages.</p>
+                    <p data-section="panel-principal" data-value="link-two" class="link"><a href="/views/geography.html"><b>See more</b></a></p>
+                </div>
+                <img src="../public/assets/img/index/wallpaper-10.jpg" alt="">
+            </div>
+            <div class="container-home-panel-wraper">
+                <img src="../public/assets/img/index/wallpaper-6.jpg" alt="">
+                <div class="container-home-panel-wraper-content">
+                    <h2 data-section="panel-principal" data-value="title-three">Cuisine</h2>
+                    <p data-section="panel-principal" data-value="description-three">Germany's culinary scene is a journey through regional flavors, from hearty Bavarian delights to delicate coastal seafood. A celebration of craftsmanship and local ingredients, German cuisine invites you to savor the nation's dedication to culinary excellence.</p>
+                    <p data-section="panel-principal" data-value="link-three" class="link"><a href="/views/cuisine.html"><b>See more</b></a></p>
+                </div>
+            </div>
+
+        </div>
+
+    </section>
+
+    <footer>
+        <p><b>©Josda Quinvar<br>2024</b></p>
+    </footer>
+
+    <script src="../public/logic/language.js"></script>
+    <script src="../public/logic/theme.js"></script>
+</body>
+</html>

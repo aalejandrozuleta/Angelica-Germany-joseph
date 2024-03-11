@@ -1,0 +1,21 @@
+@import url('/public/styles/global/variables.css');
+
+.head {
+    text-align: center;
+}
+
+.head h1 {
+    padding: 3rem;
+    background-color: var(--white);
+    margin-bottom: 1rem;
+}
+
+.head h2 {
+    background-color: var(--black);
+    color: var(--white);
+    padding: 2rem;
+}
+
+.head p {
+    padding: 3rem;
+}

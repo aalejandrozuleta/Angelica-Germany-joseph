@@ -1,0 +1,112 @@
+{
+    "menu": {
+        "title-one": "Inicio",
+        "title-two": "Cocina",
+        "title-three": "Geografia",
+        "title-four": "Tradiciones"
+    },
+    "principal": {
+        "title": "Alemania",
+        "description": "Bienvenido a Alemania, una nación donde la historia, la cultura y las delicias culinarias convergen para ofrecer una experiencia cautivadora. Embarquémonos en un breve viaje por la esencia de este diverso país."
+    },
+    "panel-principal": {
+        "title-one": "Cultura y tradiciones",
+        "description-one": "El tapiz cultural de Alemania entreteje tradiciones ancestrales y festividades modernas, desde la emblemática Oktoberfest hasta los encantadores mercados navideños, ofreciendo una vibrante visión del rico patrimonio de la nación.",
+        "link-one": "<b>Ver mas</b>",
+
+        "title-two": "Geografia",
+        "description-two": "Enclavada en el corazón de Europa, la diversa geografía de Alemania se despliega desde los majestuosos Alpes hasta la encantadora Selva Negra y el sereno Mar Báltico, creando un cautivador telón de fondo que armoniza ciudades modernas con pueblos atemporales.",
+        "link-two": "<b>Ver mas</b>",
+
+        "title-three": "Cocina",
+        "description-three": "La escena culinaria alemana es un viaje a través de los sabores regionales, desde las abundantes delicias bávaras hasta el delicado marisco de la costa. La cocina alemana, una celebración de la artesanía y los ingredientes locales, le invita a saborear la dedicación del país a la excelencia culinaria.",
+        "link-three": "<b>Ver mas</b>"
+    },
+
+    "principal-cuisine": {
+        "title-principal": "Cocina",
+        "subtitle": "Platos tradicionales",
+        "description": "La escena culinaria alemana es un viaje a través de los sabores regionales, desde las abundantes delicias bávaras hasta el delicado marisco de la costa. La cocina alemana, una celebración de la artesanía y los ingredientes locales, le invita a saborear la dedicación del país a la excelencia culinaria."
+    },
+    "panel-cuisine": {
+        "title-cuisine-one": "Bratwurst",
+        "description-cuisine-one": "Salchicha alemana de cerdo, ternera o buey. Se condimenta con diversas especias, se asa a la parrilla o a la sartén y suele servirse con mostaza. Cada región de Alemania puede tener su propia variante de bratwurst.",
+        
+        "title-cuisine-two": "Sauerkraut",
+        "description-cuisine-two": "Col fermentada que tiene un característico sabor agrio. Es un acompañamiento habitual de muchos platos alemanes y suele servirse con salchichas y carnes.",
+        
+        "title-cuisine-three": "Wiener Schnitzel",
+        "description-cuisine-three": "Chuleta de ternera o cerdo empanada y frita. Es un plato clásico, que suele servirse con una rodaja de limón y la tradicional ensalada de patatas.",
+        
+        "title-cuisine-four": "Sauerbraten",
+        "description-cuisine-four": "Asado, normalmente de ternera (pero puede hacerse con otras carnes), marinado antes de cocinarse a fuego lento. El adobo suele incluir vinagre, agua y diversas especias, que dan al plato un sabor ácido y sabroso.",
+        
+        "title-cuisine-five": "Kartoffelsalat",
+        "description-cuisine-five": "La ensalada de patata es una guarnición popular en Alemania, y las recetas varían según la región. Puede servirse templada o fría y a menudo incluye ingredientes como cebolla, beicon y una vinagreta ácida."
+    },
+
+    "principal-geography": {
+        "title-principal": "Geografia",
+        "subtitle": "Regiones",
+        "description": "Enclavada en el corazón de Europa, la diversa geografía de Alemania se despliega desde los majestuosos Alpes hasta la encantadora Selva Negra y el sereno Mar Báltico, creando un cautivador telón de fondo que armoniza ciudades modernas con pueblos atemporales."
+    },
+    "panel-geography": {
+        "title-one": "Bavaria",
+        "description-one": "<b>Descripción:</b> Situada en el sureste de Alemania, Baviera es conocida por sus pintorescos paisajes, sus encantadores pueblos y su riqueza cultural. Tiene una fuerte identidad cultural y es sede de eventos tradicionales como el Oktoberfest.<br><br> <b>Ciudades Resaltables:</b> Munich, Nuremberg.",
+        "mini-title": "Lugares de interés",
+        "subtitle-one-one": "Castillo de Neuschwanstein.",
+        "subtitle-one-two": "Zugspitze",
+        "subtitle-one-three": "Parque Nacional de Berchtesgaden.",
+
+        "title-two": "Baden-Württemberg",
+        "description-two": "<b>Descripción:</b> Situada en el suroeste de Alemania, Baden-Württemberg es conocida por sus ciudades históricas, sus viñedos y la Selva Negra. Es un centro neurálgico para la tecnología y la innovación.<br><br> <b>Ciudades Resaltables:</b> Stuttgart, Heidelberg.",
+        "subtitle-two-one": "Castillo de Heidelberg",
+        "subtitle-two-two": "Museo Mercedes-Benz",
+        "subtitle-two-three": "Cascadas de Triberg",
+
+        "title-three": "Nordrhein-Westfalen",
+        "description-three": "<b>Descripción:</b> Situada en el oeste de Alemania, esta región es conocida por su patrimonio industrial, sus vibrantes ciudades y su diversidad cultural. Es el estado más poblado de Alemania.<br><br> <b>Ciudades Resaltables:</b> Cologne, Düsseldorf.",
+        "subtitle-three-one": "Catedral de Colonia",
+        "subtitle-three-two": "Río Rin",
+        "subtitle-three-three": "Parque del Cine de Alemania",
+
+        "title-four": "Saxony",
+        "description-four": "<b>Descripción:</b> Situada en la parte oriental de Alemania, Sajonia es conocida por su arquitectura histórica, su patrimonio cultural y sus paisajes pintorescos.<br><br> <b>Ciudades Resaltables:</b> Dresden, Leipzig.",
+        "subtitle-four-one": "Palacio Zwinger",
+        "subtitle-four-two": "Ópera Semper",
+        "subtitle-four-three": "Parque Nacional de la Suiza Sajona",
+
+        "title-five": "Hesse",
+        "description-five": "<b>Descripción:</b> Situada en el centro de Alemania, Hesse es conocida por su importancia económica, sus lugares históricos y sus eventos culturales.<br><br> <b>Ciudades Resaltables:</b> Frankfurt, Wiesbaden.",
+        "subtitle-five-one": "Skyline de Fráncfort",
+        "subtitle-five-two": "Römer",
+        "subtitle-five-three": "Bergpark Wilhelmshöhe"
+    },
+
+    "principal-traditions": {
+        "title-principal": "Cultura y tradiciones",
+        "subtitle-one": "Fiestas y celebraciones tradicionales",
+        "subtitle-two": "Tradiciones históricas",
+        "description": "El tapiz cultural de Alemania entreteje tradiciones ancestrales y festividades modernas, desde la emblemática Oktoberfest hasta los encantadores mercados navideños, ofreciendo una vibrante visión del rico patrimonio de la nación."
+    },
+    "panel-traditions-culture-traditions": {
+        "title-one": "Oktoberfest",
+        "description-one": "<b>Location:</b> Munich, Bavaria. <br><br> <b>Descripción:</b> Originada en 1810 como celebración de la boda del príncipe heredero bávaro Ludwig, la Oktoberfest es la mayor fiesta de la cerveza del mundo. El recinto ferial de Theresienwiese se transforma en un animado recinto festivo con música tradicional bávara, comida y, por supuesto, mucha cerveza.<br><br> <b>Origin:</b> Celebración de la boda real que evolucionó hasta convertirse en una tradición anual.<br><br>",
+
+        "title-two": "Karneval",
+        "description-two": "<b>Location:</b> Cologne, Düsseldorf, Mainz (Rhineland).<br><br> <b>Descripción:</b> Extravagante celebración previa a la Cuaresma con elaborados disfraces, desfiles y fiestas callejeras. Cada ciudad tiene tradiciones y temas únicos durante el Karneval.<br><br> <b>Origin:</b> Antiguas tradiciones romanas y medievales europeas fusionadas con festividades cristianas.<br><br>",
+
+        "title-three": "Weihnachtsmärkte",
+        "description-three": "<b>Location:</b> Nuremberg, Cologne, Dresden.<br><br> <b>Descripción:</b> Mercados encantadores con adornos artesanales, dulces de temporada y luces festivas. Núremberg es conocida por su Christkindlesmarkt, Colonia por su Mercado Navideño de la Catedral y Dresde por su histórico Striezelmarkt.<br><br> <b>Origin:</b> Estos mercados, que se remontan a la Baja Edad Media, son una seña de identidad de las tradiciones navideñas alemanas.<br><br>"
+    },
+    "panel-traditions-historic-traditions": {
+        "title-one": "Walpurgisnacht",
+        "description-one": "Esta celebración pagana, que tiene lugar la noche anterior al Primero de Mayo, incluye hogueras para ahuyentar a las brujas y los malos espíritus. La gente se reúne y, en algunas regiones, se representan obras de teatro o representaciones tradicionales.",
+
+        "title-two": "Maypole Dancing",
+        "description-two": "Esta celebracion implica un esfuerzo comunitario. Cada emblema del poste representa un oficio o artesanía local. Los festejos incluyen bailes alrededor del palo de mayo, a menudo acompañados de música y canciones tradicionales.",
+        
+        "title-three": "Easter Fires",
+        "description-three": "Esta celebracion tiene raíces tanto paganas como cristianas. La gente enciende hogueras para simbolizar el triunfo de la luz sobre la oscuridad. En algunas regiones también se organizan juegos y bailes en torno al fuego."
+    }
+}

@@ -1,0 +1,112 @@
+{
+    "menu": {
+        "title-one": "Home",
+        "title-two": "Cuisine",
+        "title-three": "Geography",
+        "title-four": "Traditions"
+    },
+    "principal": {
+        "title": "Germany",
+        "description": "Welcome to Germany, a nation where history, culture, and culinary delights converge to offer a captivating experience. Let's embark on a brief journey through the essence of this diverse country."
+    },
+    "panel-principal": {
+        "title-one": "Culture and Traditions",
+        "description-one": "Germany's cultural tapestry weaves together ancient traditions and modern festivities, from the iconic Oktoberfest to the enchanting Christmas markets, offering a vibrant glimpse into the nation's rich heritage.",
+        "link-one": "<b>See more</b>",
+
+        "title-two": "Geography",
+        "description-two": "Nestled in the heart of Europe, Germany's diverse geography unfolds from the majestic Alps to the charming Black Forest and serene Baltic Sea, creating a captivating backdrop that harmonizes modern cities with timeless villages.",
+        "link-two": "<b>See more</b>",
+
+        "title-three": "Cuisine",
+        "description-three": "Germany's culinary scene is a journey through regional flavors, from hearty Bavarian delights to delicate coastal seafood. A celebration of craftsmanship and local ingredients, German cuisine invites you to savor the nation's dedication to culinary excellence.",
+        "link-three": "<b>See more</b>"
+    },
+
+    "principal-cuisine": {
+        "title-principal": "Cuisine",
+        "subtitle": "Traditional Dishes",
+        "description": "Germany's culinary scene is a journey through regional flavors, from hearty Bavarian delights to delicate coastal seafood. A celebration of craftsmanship and local ingredients, German cuisine invites you to savor the nation's dedication to culinary excellence."
+    },
+    "panel-cuisine": {
+        "title-cuisine-one": "Bratwurst",
+        "description-cuisine-one": "A type of German sausage made from pork, veal, or beef. It is seasoned with various spices, grilled or pan-fried, and often served with mustard. Each region in Germany may have its own variation of bratwurst.",
+        
+        "title-cuisine-two": "Sauerkraut",
+        "description-cuisine-two": "Fermented cabbage that has a distinctive sour flavor. It's a common accompaniment to many German dishes and is often served with sausages and meats.",
+        
+        "title-cuisine-three": "Wiener Schnitzel",
+        "description-cuisine-three": "A breaded and deep-fried veal or pork cutlet. It's a classic dish, often served with a slice of lemon and traditional potato salad.",
+        
+        "title-cuisine-four": "Sauerbraten",
+        "description-cuisine-four": "A pot roast, usually of beef (but can be made with other meats), marinated before slow-cooking. The marinade typically includes vinegar, water, and various spices, giving the dish a tangy and flavorful taste.",
+        
+        "title-cuisine-five": "Kartoffelsalat",
+        "description-cuisine-five": "Potato salad is a popular side dish in Germany, and recipes vary across regions. It can be served warm or cold and often includes ingredients like onions, bacon, and a tangy vinaigrette."
+    },
+
+    "principal-geography": {
+        "title-principal": "Geography",
+        "subtitle": "Regions",
+        "description": "Nestled in the heart of Europe, Germany's diverse geography unfolds from the majestic Alps to the charming Black Forest and serene Baltic Sea, creating a captivating backdrop that harmonizes modern cities with timeless villages."
+    },
+    "panel-geography": {
+        "title-one": "Bavaria",
+        "description-one": "<b>Description:</b> Located in the southeastern part of Germany, Bavaria is known for its picturesque landscapes, charming villages, and cultural richness. It has a strong cultural identity and is home to traditional events like Oktoberfest.<br><br> <b>Notable Cities:</b> Munich, Nuremberg.",
+        "mini-title": "Landmarks",
+        "subtitle-one-one": "Neuschwanstein Castle",
+        "subtitle-one-two": "Zugspitze",
+        "subtitle-one-three": "Berchtesgaden National Park",
+
+        "title-two": "Baden-Württemberg",
+        "description-two": "<b>Description:</b> Situated in the southwestern part of Germany, Baden-Württemberg is known for its historic cities, vineyards, and the Black Forest. It's a hub for technology and innovation.<br><br> <b>Notable Cities:</b> Stuttgart, Heidelberg.",
+        "subtitle-two-one": "Heidelberg Castle",
+        "subtitle-two-two": "Mercedes-Benz Museum",
+        "subtitle-two-three": "Triberg Waterfalls.",
+
+        "title-three": "Nordrhein-Westfalen",
+        "description-three": "<b>Description:</b> Located in western Germany, this region is known for its industrial heritage, vibrant cities, and cultural diversity. It's the most populous state in Germany.<br><br> <b>Notable Cities:</b> Cologne, Düsseldorf.",
+        "subtitle-three-one": "Cologne Cathedral",
+        "subtitle-three-two": "Rhine River",
+        "subtitle-three-three": "Movie Park Germany",
+
+        "title-four": "Saxony",
+        "description-four": "<b>Description:</b> Situated in the eastern part of Germany, Saxony is known for its historic architecture, cultural heritage, and scenic landscapes.<br><br> <b>Notable Cities:</b> Dresden, Leipzig.",
+        "subtitle-four-one": "Zwinger Palace",
+        "subtitle-four-two": "Semperoper",
+        "subtitle-four-three": "Saxon Switzerland National Park",
+
+        "title-five": "Hesse",
+        "description-five": "<b>Description:</b> Located in central Germany, Hesse is known for its economic significance, historic sites, and cultural events.<br><br> <b>Notable Cities:</b> Frankfurt, Wiesbaden.",
+        "subtitle-five-one": "Frankfurt's Skyline",
+        "subtitle-five-two": "Römer",
+        "subtitle-five-three": "Bergpark Wilhelmshöhe"
+    },
+
+    "principal-traditions": {
+        "title-principal": "Culture and Traditions",
+        "subtitle-one": "Traditional Festivals and Celebrations",
+        "subtitle-two": "Historic Traditions",
+        "description": "Germany's cultural tapestry weaves together ancient traditions and modern festivities, from the iconic Oktoberfest to the enchanting Christmas markets, offering a vibrant glimpse into the nation's rich heritage."
+    },
+    "panel-traditions-culture-traditions": {
+        "title-one": "Oktoberfest",
+        "description-one": "<b>Location:</b> Munich, Bavaria. <br><br> <b>Description:</b> Originating in 1810 as a celebration of Bavarian Crown Prince Ludwig's wedding, Oktoberfest is the world's largest beer festival. Theresienwiese fairgrounds transform into a lively festival ground with traditional Bavarian music, food, and, of course, plenty of beer. <br><br> <b>Origin:</b> Royal wedding celebration that evolved into an annual tradition. <br><br>",
+
+        "title-two": "Karneval",
+        "description-two": "b>Location:</b> Cologne, Düsseldorf, Mainz (Rhineland).<br><br> <b>Description:</b> Extravagant pre-Lenten celebration with elaborate costumes, parades, and street parties. Each city has unique traditions and themes during the Karneval season.<br><br> <b>Origin:</b> Ancient Roman and medieval European traditions merged with Christian festivities.<br><br>",
+
+        "title-three": "Weihnachtsmärkte",
+        "description-three": "<b>Location:</b> Nuremberg, Cologne, Dresden.<br><br> <b>Description:</b> Enchanting markets with handcrafted ornaments, seasonal treats, and festive lights. Nuremberg is known for its Christkindlesmarkt, Cologne for its Cathedral Christmas Market, and Dresden for its historic Striezelmarkt.<br><br> <b>Origin:</b> Dating back to the Late Middle Ages, these markets are a hallmark of German Christmas traditions.<br><br>"
+    },
+    "panel-traditions-historic-traditions": {
+        "title-one": "Walpurgisnacht",
+        "description-one": "This pagan celebration, occurring on the night before May Day, involves bonfires to ward off witches and evil spirits. People gather, and in some regions, traditional plays or performances are staged.",
+
+        "title-two": "Maypole Dancing",
+        "description-two": "Erecting a Maypole involves a community effort. Each emblem on the pole represents a local trade or craft. The festivities include dances around the Maypole, often accompanied by music and traditional songs.",
+        
+        "title-three": "Easter Fires",
+        "description-three": "Easter fires have both pagan and Christian roots. People light bonfires to symbolize the triumph of light over darkness. In some regions, there are also games and dances around the fire."
+    }
+}

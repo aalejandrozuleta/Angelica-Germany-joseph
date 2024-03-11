@@ -1,0 +1,57 @@
+@import url('/public/styles/global/variables.css');
+
+.container-home-cover {
+    position: relative;
+    background-image: url(/public/assets/img/index/wallpaper-7.jpg);
+    background-size: cover;
+    height: 65vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.overlay {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-color: rgba(0, 0, 0, 0.5); /* Color oscuro con opacidad */
+}
+
+.container-home-cover-content {
+    height: 20vh;
+    width: 30vw;
+    color: white;
+    z-index: 1;
+    text-align: center
+}
+
+.container-home-panel-wraper {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 2rem 0;
+    background-color: var(--white);
+}
+
+.container-home-panel-wraper img {
+    width: 42rem;
+    height: 100%;
+}
+
+.container-home-panel-wraper-content {
+    text-align: center;
+    padding: 5rem;
+}
+
+.link {
+    font-size: 1.2rem;
+    font-weight: 100;
+    padding: 0;
+}
+
+.link:hover {
+    color: var(--red-flag);
+    cursor: pointer;
+}

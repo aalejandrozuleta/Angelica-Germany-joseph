@@ -1,0 +1,33 @@
+@import url('/public/styles/global/variables.css');
+
+.container-traidtions-panel-wrapper {
+    background-color: var(--white);
+    margin: 2rem 0;
+    border-top: solid .2rem var(--black);
+    border-bottom: solid .2rem var(--black);
+}
+
+.container-traidtions-panel-wrapper h2 {
+    padding: 2rem;
+    background-color:  var(--black);
+    color: var(--white);
+    text-align: center;
+}
+
+.container-traditions h1 {
+    padding: 3rem;
+    text-align: center;
+    background-color: var(--white);
+}
+
+.container-traidtions-panel-wrapper p {
+    padding: 3rem;
+}
+
+.container-traditions-panel img {
+    aspect-ratio: 16/9;
+    object-fit: cover;
+    width: 100%;
+    height: 80vh;
+}
+

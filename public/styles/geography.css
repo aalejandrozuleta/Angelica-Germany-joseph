@@ -1,0 +1,53 @@
+@import url('/public/styles/global/variables.css');
+
+.container-geography-region {
+    background-color: var(--white);
+    margin: 2rem 0;
+    border-top: solid .2rem var(--black);
+    border-bottom: solid .2rem var(--black);
+}
+
+.container-geography-region h2 {
+    padding: 2rem;
+    background-color:  var(--black);
+    color: var(--white);
+    text-align: center;
+}
+
+.container-geography-region p {
+    padding: 4rem;
+}
+
+.container-geography-region h3 {
+    padding: 1rem;
+    background-color:  var(--black);
+    color: var(--white);
+    text-align: center;
+}
+
+.container-geography-region h4 {
+    padding: 1rem;
+    background-color:  var(--black);
+    color: var(--white);
+    text-align: center;
+    border-bottom-left-radius: .5rem;
+    border-bottom-right-radius: .5rem;
+}
+
+.container-geography-region-landmarks {
+    display: flex;
+    padding: 2rem ;
+}
+
+.landmark {
+    padding: 1rem;
+}
+
+.landmark img {
+    width: 25rem;
+    height: 25rem;
+    object-fit: cover;
+    margin-bottom: -4px;
+    border-top-right-radius: .5rem;
+    border-top-left-radius: .5rem;
+}

@@ -1,0 +1,16 @@
+@import url('/public/styles/global/variables.css');
+
+footer {
+    background-color: var(--white);
+    padding: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 15vh;
+}
+
+footer p{
+    font-size: 1.2rem;
+    font-weight: 100;
+}

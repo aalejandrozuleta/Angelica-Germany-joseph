@@ -1,0 +1,20 @@
+@import url('/public/styles/global/variables.css');
+
+.container-cuisine-panel {
+    border-top: solid .2rem var(--black);
+    border-bottom: solid .2rem var(--black);
+    background-color: var(--white);
+    margin: 2rem 0;
+    display: flex;
+    align-items: center;
+}
+
+.container-cuisine-panel img {
+    width: 25rem;
+    height: 25rem;
+    object-fit: cover;
+}
+.container-cuisine-panel-content {
+    text-align: center;
+    padding: 5rem;
+}
