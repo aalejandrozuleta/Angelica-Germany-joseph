@@ -1,8 +1,8 @@
-@import url('/public/styles/global/variables.css');
+@import url('global/variables.css');
 
 .container-home-cover {
     position: relative;
-    background-image: url(/public/assets/img/index/wallpaper-7.jpg);
+    background-image: url(../assets/img/index/wallpaper-7.jpg);
     background-size: cover;
     height: 65vh;
     display: flex;
